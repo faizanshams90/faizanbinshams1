@@ -5,15 +5,13 @@ I am a dedicated student at Sir Syed University of Engineering & Technology, Kar
 Passionate about frontend & web development.
 
 ## 🛠️ Languages and Tools
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Bootstrap
-- Git & GitHub
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/faizan-bin-shams-2abbab30b/)
+- [LinkedIn](https://linkedin.com/in/faizan-bin-shams)
 - 📧 faizanshams03@gmail.com
 
 ## 🎯 Fun Facts
