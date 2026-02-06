@@ -35,7 +35,7 @@ Always learning new technologies and improving my skills.
 ---
 
 ## 📊 GitHub Stats
-![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanshams90&show_icons=true&theme=dark&cache_seconds=86400)
+![Faizan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=faizanshams90&show_icons=true&theme=dark)
 
 ---
 
